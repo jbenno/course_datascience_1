@@ -1,6 +1,8 @@
 # Data Science in the Wild
 Cornell Tech CS 5304 / INFO 5304
 
+Data in the wild are unruly. They might be collected for very different purposes, metrics are contested, and models end up in processes that affect people. This course teaches the statistics and machine learning needed to work with such data, with New York City open data examples throughout. Students frame a problem before touching the data, estimate before computing, and learn regression, evaluation, resampling and testing through the problems each technique claims to fix. Later modules cover causal inference, gradient boosting, neural networks, and text, sensor, network and genomic data, including the re-engineering of an image-recognition pipeline. Privacy, fairness and the politics of code are treated as part of the method. A team project on real data runs through the term.
+
 ## Schedule
 
 ### Module A. Framing projects, getting data, ca. 3 weeks
